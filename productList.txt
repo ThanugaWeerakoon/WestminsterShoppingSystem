@@ -1,0 +1,4 @@
+Electronics,w200,mobile,2,200.0,samsung,4
+Electronics,w202,mobile2,4,800.0,samsung,9
+Electronics,w204,mobile2,6,700.0,samsung,8
+Clothing,w300,shirt,6,700.0,M,Red
